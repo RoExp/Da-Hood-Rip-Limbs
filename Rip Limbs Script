@@ -1,5 +1,6 @@
 -- I started to make roblox games so no more scripts from now on
 -- 26.10.2024
+-- You can still view the old script if it doesn't got patched after the da hood update
 local function returns(c)
 	if c then return "Quit to make roblox games no more scripts"
 	end
